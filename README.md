@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official Wails Svelte template.
+This desktop app is created with Go and Svelte bundled by wails
 
 ## Live Development
 
