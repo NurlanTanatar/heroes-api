@@ -2,7 +2,7 @@
 
 ## About
 
-This desktop app is created with Go and Svelte bundled by wails
+This desktop app is created with Go and Svelte bundled by wails. This app is based [tutorial](https://wails.io/docs/tutorials/dogsapi).
 
 ## Live Development
 
